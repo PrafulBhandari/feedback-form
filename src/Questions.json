@@ -1,0 +1,43 @@
+[
+	{
+		"questionNum":1,
+		"questionVal":"What do you rate the movie Dil Bechara?"
+	},
+	{
+		"questionNum":2,
+		"questionVal":"What do you rate the performance of Sushant Singh Rajput in the movie Dil Bechara?"
+	},
+	{
+		"questionNum":3,
+		"questionVal":"How do you rate the songs in the movie Dil Bechara?"
+	},
+	{
+		"questionNum":4,
+		"questionVal":"What do you rate the movie Shakuntala Devi?"
+	},
+	{
+		"questionNum":5,
+		"questionVal":"What do you rate the performance of Vidya Balan in the movie Shakuntala Devi?"
+	},
+	{
+		"questionNum":6,
+		"questionVal":"How do you rate the songs in the movie Shakuntala Devi?"
+	},
+	{
+		"questionNum":7,
+		"questionVal":"What do you rate the movie War?"
+	},
+	{
+		"questionNum":8,
+		"questionVal":"What do you rate the performance of Hrithik Roshan in the movie War?"
+	},
+	{
+		"questionNum":9,
+		"questionVal":"How do you rate the songs in the movie War?"
+	},
+	{
+		"questionNum":10,
+		"questionVal":"How much do you enjoy watching movies?"
+	}
+
+]

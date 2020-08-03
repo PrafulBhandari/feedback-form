@@ -1,0 +1,43 @@
+[
+	{
+		"questionNum":11,
+		"questionVal":"How much do you rate your C programming skills?"
+	},
+	{
+		"questionNum":12,
+		"questionVal":"How much do you rate your C++ programming skills?"
+	},
+	{
+		"questionNum":13,
+		"questionVal":"How much do you rate your Java programming skills?"
+	},
+	{
+		"questionNum":14,
+		"questionVal":"How much do you rate your Python programming skills?"
+	},
+	{
+		"questionNum":15,
+		"questionVal":"How much do you rate your .Net programming skills?"
+	},
+	{
+		"questionNum":16,
+		"questionVal":"How much do you rate your JavaScript programming skills?"
+	},
+	{
+		"questionNum":17,
+		"questionVal":"How much do you rate your Reactjs skills?"
+	},
+	{
+		"questionNum":18,
+		"questionVal":"How many hours a day do you code?"
+	},
+	{
+		"questionNum":19,
+		"questionVal":"How much do enjoy codeing?"
+	},
+	{
+		"questionNum":20,
+		"questionVal":"How much adepteble are you to new programming language/framework?"
+	}
+
+]
